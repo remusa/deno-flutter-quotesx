@@ -1,0 +1,5 @@
+{
+  "entryPoint": "./index.ts",
+  "cwd": "./",
+  "excludes": ["./file/you/want/to/exclude.ts"]
+}
